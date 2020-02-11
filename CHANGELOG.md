@@ -9,3 +9,5 @@
   (arrived at 8,43,32,nether)
 - Build return portal, go through it at 25,49,-35,nether
   (arrived at 203,47,-291,overworld; walked to 207,45,-291,overworld)
+- Build nether portal, go through it at 207,45,-291
+  (arrived at 25,48,-35; walked to 27,48,-40)
